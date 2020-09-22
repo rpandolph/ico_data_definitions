@@ -1,12 +1,8 @@
 Production: Estimates are provided by the Members for current crop year (and revised on a quarterly basis). After the end of the crop year, estimates are replaced by derived production. In the absence of estimates provided by Members alternative sources are used (USDA, F.O. Licht, LMC International, etc.).
 
-Derived production:	Calculated after the close of the crop year on the basis of change in stocks, total exports and total imports during the year.
-
 Domestic consumption:	Estimates are provided by the Members. In the absence of a recent estimate for the current crop year, the previous year's estimate is used.
 
 Exportable production: Calculated as the difference between total production minus domestic consumption.
-
-Arabica/Robusta breakdown: Members that produce more than one type of coffee are requested to provide the percentage of each type produced.   Unless a separate breakdown is given for domestic consumption, the same percentage will be used in the calculation for domestic consumption of each type.
 
 Crop percentage distribution:	Represents the availability of the crop in each quarter so that supply data can be converted from crop to coffee or calendar year basis (request for this information was made in document ED-1840/02).
 
@@ -22,17 +18,11 @@ Number of trees:	Number of trees producing coffee and in formation.
 
 Exports:	Volume of coffee, in GBE, exported in a given month.  Information is based on data provided in monthly statistical reports and Certificates of Origin.
 
-Estimated exports:	In the absence of data provided by Members, alternative sources (press stories, F.O. Licht, GTIS and import statistics) are used.  In the absence of any data available from any source, estimates are made based on performance in previous years.
-
 Value of exports:	Value of exports (FOB) of coffee provided in monthly reports.  When data are not provided by the Member, estimates are made on the same basis as in item 1a.  In the absence of any data, estimates are based on the last month for which data are available – using the unit value to derive the value.
 
 Unit value of exports:	Information derived from monthly reports.  It is the result of total value divided by total volume expressed in US cents/lb.
 
-Processed coffee information(ratio by type): For countries that produce/export both Arabica and Robusta coffee, data for roasted and soluble coffee are converted into GBE and classified as Arabica and Robusta using a 50/50 ratio.
-
 Imports/total re-exports:	Volume of coffee, in GBE, imported/re-exported from all origins/to all destinations in a given month.  Information is provided in monthly statistical reports.
-
-Estimated imports:	In the absence of data from Members, alternative sources (F.O. Licht, Eurostat, GTIS, etc.) are used.  In the absence of data available from any source, estimates are made based on performance in previous years.
 
 Value of imports/re-exports	Value of imports (CIF) and re-exports (FOB) of coffee provided in monthly reports.  In the absence of data provided by Members, estimates are made following procedures similar to those for exporting Members.
 
@@ -54,15 +44,9 @@ Net imports:	Are equal to gross imports less (re)-exports.  In non-member countr
 
 Unit value of imports/exports/re exports:	Information derived from the annual data received in item 1.  It is the result of total value divided by total volume expressed in US cents/lb.
 
-Average of the 2nd and 3rd positions in the futures markets:	Is the average of the futures prices of the 2nd and 3rd positions in the London (Robustas) and New York (Arabicas) markets.
-
 Certified stocks:	Is data published by ICE on the stocks held in warehouses linked to the New York and London Futures markets.
 
-Consumer price index:	Is the index (provided by the IMF) used to convert prices and values from current to constant terms.
-
 Daily prices:	Represent the spot prices of various growths of coffee traded daily in the US, German and French physicals markets.  These prices are collected by the ICO agent in each market and transmitted to the Organization in accordance with the procedures established in document ICC-105-17.  They are the basis for the calculation of group indicator prices.
-
-Exchange rate:	Is the value of exchange (provided by the IMF on a monthly basis) used to convert national currencies to US dollars. Daily exchange rates used in calculating the indicator prices are from the Financial Times.
 
 Form of coffee:	Forms of coffee include dry cherry, parchment, green, roasted, ground, decaffeinated, liquid and soluble coffee.
 
@@ -90,6 +74,12 @@ Special characteristic:	Is coffee that has been certified as being grown under i
 
 Type of coffee:	The two main types of coffee traded internationally are Arabica and Robusta. Excelsa and Liberica coffees are also produced commercially but in much smaller quantities.
 
+Wholesale and retail market prices of roasted/soluble coffee:	Represent the price paid by the consumer to the commercial distributor/outlet.
+
+World consumption:	Represents the result of disappearance in importing Members added to net-imports in non-members.
+
+
+**Process/Method/Metadata**
 United Nations index:	Refers to the UN index of unit values of exports of manufactured goods from developed market economies.  It is used to convert values/unit values from current to constant terms.
 
 Value of exports/imports of all goods:	Is merchandise data as published by the IMF, UNCTAD and WTO.
@@ -98,6 +88,21 @@ Value of exports/imports of all goods and services:	Is merchandise data and Comm
 
 Votes: 	Calculated on the basis of a pro-rata distribution of average gross exports and imports performance in the four preceding calendar years.
 
-Wholesale and retail market prices of roasted/soluble coffee:	Represent the price paid by the consumer to the commercial distributor/outlet.
+Exchange rate:	Is the value of exchange (provided by the IMF on a monthly basis) used to convert national currencies to US dollars. Daily exchange rates used in calculating the indicator prices are from the Financial Times.
 
-World consumption:	Represents the result of disappearance in importing Members added to net-imports in non-members.
+Consumer price index:	Is the index (provided by the IMF) used to convert prices and values from current to constant terms.
+
+Average of the 2nd and 3rd positions in the futures markets:	Is the average of the futures prices of the 2nd and 3rd positions in the London (Robustas) and New York (Arabicas) markets.
+
+Estimated imports:	In the absence of data from Members, alternative sources (F.O. Licht, Eurostat, GTIS, etc.) are used.  In the absence of data available from any source, estimates are made based on performance in previous years.
+
+Processed coffee information(ratio by type): For countries that produce/export both Arabica and Robusta coffee, data for roasted and soluble coffee are converted into GBE and classified as Arabica and Robusta using a 50/50 ratio.
+
+Derived production:	Calculated after the close of the crop year on the basis of change in stocks, total exports and total imports during the year.
+
+Arabica/Robusta breakdown: Members that produce more than one type of coffee are requested to provide the percentage of each type produced.   Unless a separate breakdown is given for domestic consumption, the same percentage will be used in the calculation for domestic consumption of each type.
+
+Estimated exports:	In the absence of data provided by Members, alternative sources (press stories, F.O. Licht, GTIS and import statistics) are used.  In the absence of any data available from any source, estimates are made based on performance in previous years.
+
+**Missing definitions**
+green bean equivalent
