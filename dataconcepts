@@ -1,4 +1,4 @@
-Total production: Estimates are provided by the Members for current crop year (and revised on a quarterly basis). After the end of the crop year, estimates are replaced by derived production. In the absence of estimates provided by Members alternative sources are used (USDA, F.O. Licht, LMC International, etc.).
+Production: Estimates are provided by the Members for current crop year (and revised on a quarterly basis). After the end of the crop year, estimates are replaced by derived production. In the absence of estimates provided by Members alternative sources are used (USDA, F.O. Licht, LMC International, etc.).
 
 Derived production:	Calculated after the close of the crop year on the basis of change in stocks, total exports and total imports during the year.
 
@@ -20,7 +20,7 @@ Area under coffee:	Area of hectares (HA) in production and in formation.
 
 Number of trees:	Number of trees producing coffee and in formation.
 
-Total exports:	Volume of coffee, in GBE, exported in a given month.  Information is based on data provided in monthly statistical reports and Certificates of Origin.
+Exports:	Volume of coffee, in GBE, exported in a given month.  Information is based on data provided in monthly statistical reports and Certificates of Origin.
 
 Estimated exports:	In the absence of data provided by Members, alternative sources (press stories, F.O. Licht, GTIS and import statistics) are used.  In the absence of any data available from any source, estimates are made based on performance in previous years.
 
@@ -30,7 +30,7 @@ Unit value of exports:	Information derived from monthly reports.  It is the resu
 
 Processed coffee information(ratio by type): For countries that produce/export both Arabica and Robusta coffee, data for roasted and soluble coffee are converted into GBE and classified as Arabica and Robusta using a 50/50 ratio.
 
-Total imports/total re-exports:	Volume of coffee, in GBE, imported/re-exported from all origins/to all destinations in a given month.  Information is provided in monthly statistical reports.
+Imports/total re-exports:	Volume of coffee, in GBE, imported/re-exported from all origins/to all destinations in a given month.  Information is provided in monthly statistical reports.
 
 Estimated imports:	In the absence of data from Members, alternative sources (F.O. Licht, Eurostat, GTIS, etc.) are used.  In the absence of data available from any source, estimates are made based on performance in previous years.
 
@@ -46,7 +46,7 @@ Roastings:	Refer to the amount of net weight of green coffee which has been proc
 
 Disappearance:	Level of consumption in importing Members which is measured by deducting re-exports from imports and adjusting the resulting figure for changes in visible inventories.
 
-Total imports/exports/re-exports (volume and value):	Annual data obtained from National Statistics Offices in non-member countries giving total volume/value of imports/exports/re-exports of all forms of coffee imported/exported/re-exported from all sources/to all destinations.
+Imports/exports/re-exports (volume and value):	Annual data obtained from National Statistics Offices in non-member countries giving total volume/value of imports/exports/re-exports of all forms of coffee imported/exported/re-exported from all sources/to all destinations.
 
 Estimated imports/exports/re-exports (volume and value):	In the absence of data from non-members alternative sources (FAO, GTIS, UN Comtrade, F.O. Licht, derived statistics, etc.) are used.  In the absence of data available from any source, estimates are made based on performance in previous years.
 
