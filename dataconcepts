@@ -2,43 +2,77 @@
 
 **REVISED DEFINITIONS**
 TRADE
-Type of coffee:	Refers to the species of coffee. The two main types in economic terms are Arabica and Robusta. Other types include Excelsa and Liberica coffees.
+Type of coffee:	Refers to the species of coffee. The two main types of coffee traded internationally are Arabica and Robusta. Other types include Excelsa and Liberica coffees, which are also produced commercially, but in much smaller quantities.
 Certified stocks:	The volume of Arabica or Robusta coffee stocks that are graded by exchange-approved graders according to the specifications of the appropriate futures contract (that is, "Coffee C Futures" for Arabica and "Robusta Coffee Futures" for Robusta) and stored in exchange-approved warehouses. The exchange for the coffee futures contracts is the Intercontinental Exchange(https://www.theice.com), which also maintains and publishes this data.
+
+Certificate of Origin: A certificate issued by the certifying agency in a Member country of the ICO to cover an export of coffee. The certificate states the country of origin of the coffee and provides information required under the relevant controls rules, e.g. country of destination, volume of coffee exported, value of coffee exported, etc.
+
 Special characteristic:	Coffee is considered to have a special characteristic if its covered by a certification/verification programme that is implemented internationally or by individual companies or can be classified as specialty/gourmet coffee). This is voluntary information recorded in Box 17 of the certificate of origin.
+
 Mode of shipment:	Type of packaging used to enclose and/or protect coffee during transport. Typical packaging includes: Bags, Bulk, Containers, Bags in Containers or Bulk in Containers. This is reported in box 11 of the certificate of origin.
-Exports/Re-Exports:	Volume of coffee leaving the statistical/economical territory of a coffee producing country/economic zone. This typically refers to net weight.
+Exports:	Volume of coffee leaving the statistical/economical territory of a coffee producing country/economic zone. This typically refers to net weight.
 Net imports:	Are equal to  imports less exports or re-exports.
-Quality standards for Export of Coffee:	target standards adopted by the ICO in Resolution 420 that proscribe the maximum number of defects and moisture content for exported coffee. This is reported in box 17a on the certificate of origin.
+Quality standards for Export of Coffee:	target standards adopted by the ICO in Resolution 420 that prescribe the maximum number of defects and moisture content for exported coffee. This is reported in box 17a on the certificate of origin.
 Value of exports/re-exports: The FOB value of coffee leaving the statistical/economical territory of a country/economic zone.
+
 Value of imports:	The CIF value of coffee entering the statistical/economical territory of a country/economic zone.
+
 Re-exports: Volume of coffee leaving the statistical/economical territory of a country/economic zone that does not produce coffee. This typically refers to net weight. Re-exports typically consist of processed (roasted/soluble) coffee, but may include green coffee.
+
 Imports: Volume of coffee entering the statistical/economical territory of a country/economic zone. This typically refers to net weight.
-Unit value of exports/imports/re-export: This is a calculated value of the total value(CIF or FOB) divided by total volume expressed in US cents/lb.
+Unit value of exports/imports/re-export: This is a calculated value of the total value(CIF or FOB) divided by total volume expressed in US cents/lb of green bean equivalent.
 
 SUPPLY/DEMAND
 Area under coffee:	Total area planted with coffee trees in production and in formation reported in hectares.
-Production: refers to the volume of coffee that is harvested and sold in the market or consumed or used by producers.
+Production: refers to the volume of coffee that is harvested and sold in the market, as well as the volume that is consumed or used by producers.
 Crop percentage distribution:	Represents the share of the total volume of the coffee produced/harvested for each quarter of the crop year.
-Inventories:	Refer to the volume of green coffee held by importers and roasters. Information in selected European ports is provided by the European Coffee Federation (ECF).
-Roastings:	Refer to volume of coffee related to the net weight of green coffee which has been roasted in the country.
-Gross opening stocks:	Existing volume of coffee held at the beginning of the statistical/crop year that are carried over from the previous year. These are either estimates provided by Members or may be calculated as the residual of from the end of the previous statistical/crop year.
+Inventories:	Refer to the volume of green coffee held by importers and roasters.
+Roastings:	Refer to the net weight of green coffee which has been roasted in the country.
+Gross opening stocks:	Existing volume of coffee held in producing countries at the beginning of the statistical/crop year that are carried over from the previous year. These are either estimates provided by Members or may be calculated as the residual at the end of the previous statistical/crop year.
 Per capita consumption:	Is the measure of the total consumption of coffee within a country/economy divided by the country/economy's total population.
-Disappearance:	apparent consumption that is measured by taking net imports plus change in visible inventories.
-Domestic consumption is the quantity of coffee used in or sold to the domestic coffee sector and not exported.
-World consumption: Is the total quantity of coffee used in (or sold to) the coffee sector within a given statistical period, typically a coffee year. It is the total of domestic consumption in producing countries, plus disappearance in net importing countries with inventory data, plus net imports from net importing countries without inventory data
+Disappearance:	apparent consumption that is measured by adding net imports to change in visible inventories. Whenever official data on inventories is not available, or cannot be estimated, disappearance refers simply to net imports.
+Domestic consumption: is the quantity of coffee used in or sold to the domestic coffee sector of coffee-producing countries and not exported.
+World consumption: Is the total quantity of coffee used in (or sold to) the coffee sector within a given statistical period, typically a coffee year. It is the total of domestic consumption in producing countries, plus disappearance in net importing countries.
 
 REFERENCE/TYPOLOGY
 Form of coffee:	Refers to the level of processing. Forms of coffee include dry cherry, parchment, green, roasted, ground, decaffeinated, liquid and soluble coffee(define the forms additionally).
+•	dried coffee cherry means the dried fruit of the coffee tree;
+•	parchment coffee means the green coffee bean contained in the parchment skin; 
+•	green coffee means all coffee in the naked bean form before roasting;
+•	roasted coffee means green coffee roasted to any degree and includes ground coffee; 
+•	liquid coffee means the water-soluble solids derived from roasted coffee and put into liquid form;
+•	soluble coffee means the dried water‐soluble solids derived from roasted coffee;
+•	decaffeinated coffee means green, roasted or soluble coffee from which caffeine has been extracted.
+
 Green Coffee Processing:	Coffee is processed to separate the green bean from the coffee cherry. This is typically done using wet or dry methods, producing washed and natural coffees respectively.
+
 Organic coffee:	Is grown as part of an agricultural production management system that includes the composting of organic materials, mulching, shade regulation and biological pest control. It excludes the use of agro-chemicals. For the product to be marketed as organic, it must be certified as such by a third party. Certified organic coffee follows the standards set out in ISO 17065:2012.
+
+Green bean equivalent (GBE): refers to the equivalent amount of coffee in its green form derived by multiplying the weight of various forms of coffee with the appropriate conversion factors
+
+Conversion factors: are coefficients used by the ICO to convert the weights of different forms of coffee to green bean equivalent (GBE) for the purpose of standardisation in the recording, aggregation and analysis of coffee data.
+The ICO uses the following conversion factors to  convert different forms of coffee to GBE:
+•	dried cherry: multiply the net weight of the cherry by 0.5;
+•	parchment: multiply the net weight of the parchment by 0.8;
+•	decaffeinated green bean: multiply the net weight by 1.05;
+•	roasted coffee: multiply the net weight of the roasted coffee by 1.19;
+•	soluble coffee: multiply the net weight of soluble coffee by 2.6;
+•	liquid coffee and other soluble preparations: multiply the net weight of the dried coffee solids contained in the liquid coffee by 2.6.
+
+Group of Coffee: refers to the ICO classification for grouping types of coffee with distinctive characteristics produced by net exporting countries. The following groups have been established by the ICO: Colombian Mild Arabicas, Other Mild Arabica, Brazilian Natural Arabicas and Robustas.
+Among the Arabica groups, Mild Arabicas are processed using the wet method, while Brazilian Naturals are processed using the dry method. Countries included in the Colombian Milds group are Colombia, Kenya and Tanzania. Mild Arabicas produced in all other countries are classified as Other Milds.
 
 PRICES
 ICO composite indicator price:	Is the price calculated based on the market share of exports of each group of coffee weighted in accordance with information contained in Annex I of document ICC 105-17 Add. 2 (revised every two years).
-Group indicator prices:	Represents the indicative price for the growths within a coffee group in different markets. The Rules on Statistics: Indicator Prices provides details on what growths are included in each group, and the market share in each group.
+Group indicator prices:	Represents the indicative price for the growths within a coffee group in different markets. The Rules on Statistics: Indicator Prices provides details on what growths are included in each group, and the market share of each group.
 Daily prices:	Prices based on prompt shipment, that is shipment within 30 calendar days from the date of contract. These prices represent various growths of coffee traded daily in select physicals markets.  The Rules on Statistics: Indicator Prices provides details on how these prices are collected and which growths and markets for which they are collected.
+
 Exportable production: A calculated value equal to total production minus domestic consumption.
+
 Wholesale price: The market price paid by the intermediate consumer to the commercial distributor.
+
 Retail price:	The market price paid by the end consumer to the commercial outlet.
+
 Prices paid to growers: The ICO secretariat collects this data from its Members that use different methodologies. The national average price paid to the grower at farmgate level, to another domestic stakeholder in the value chain, or the minimum price guaranteed by the Government to the grower. methodologies vary across reporting countries.
 
 **Process/Method/Metadata**
